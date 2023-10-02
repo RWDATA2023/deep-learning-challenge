@@ -46,4 +46,4 @@ In closing, the current deep learning model stands strong, but there's potential
 - [**Jupyter Notebook**](https://jupyter.org/): A leading open-source platform for interactive computing and data visualization.
 
 ### Datasets:
-- `charity_data.csv`: An extensive dataset, shedding light on various organizations and their funding efficiency. (The source should be credited if known.)
+- `charity_data.csv`: An extensive dataset, shedding light on various organizations and their funding efficiency.
